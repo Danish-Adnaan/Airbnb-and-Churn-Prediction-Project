@@ -45,7 +45,6 @@ Develop a classification model to predict customer churn using demographic and s
 
 ### Dataset Information
 - **Dataset:** Customer_data  
-- (See "Data Information" documentation for feature details.)
 
 ### Deliverables
 - Data exploration and preprocessing report or notebook: Analyze, clean, and prepare data.
