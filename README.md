@@ -10,7 +10,6 @@ The objective is to develop a regression model that predicts the price of an Air
 
 ### Dataset Information
 - **Dataset:** Airbnb_data  
-- (See "Data Information" documentation for feature details.)
 
 ### Deliverables
 - Data exploration and preprocessing: Analyze trends, handle missing values, perform data cleaning and feature engineering.
